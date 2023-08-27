@@ -10,7 +10,7 @@ Edited functions are: ```Forward()```, ```LastElement()```.
 
 > [!IMPORTANT]
 > Compare files! Only EP-0 rows are needed!
-> 
+
 > [!NOTE]
 > See ```// EP-0``` lines in the sourcecode.
 
