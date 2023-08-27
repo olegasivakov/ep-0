@@ -5,6 +5,6 @@ Edited functions are: ```Forward()```, ```LastElement()```.
 
 See ```// EP-0``` lines in the sourcecode.
 
-Last ethnode release is [Mawinor (v1.12.2)] (https://github.com/ethereum/go-ethereum/releases/tag/v1.12.2) commit bed8460.
+Edited on ethnode release is Mawinor (v1.12.2) (https://github.com/ethereum/go-ethereum/releases/tag/v1.12.2) commit bed8460.
 
 Copy file ./txpool/legacypool/list.go to ethnode sourcecode.
