@@ -1,4 +1,4 @@
-# ep-0
+# EP-0
 
 ## Overview
 Indexes of 'cache' arrays of txpool may be less than 0, or higher then array length.
