@@ -1,7 +1,7 @@
 # EP-0: Bugfix with ethnode array err
 
 ## Overview
-Indexes of 'cache' arrays of txpool may be less than 0, or higher then array length.
+Indexes of 'cache' arrays of txpool may be less than 0, or higher than array length.
 Edited functions are: ```Forward()```, ```LastElement()```.
 
 ## Notes
