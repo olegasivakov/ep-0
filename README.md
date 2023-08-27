@@ -6,7 +6,7 @@ Edited functions are: ```Forward()```, ```LastElement()```.
 
 ## Notes
 > [!IMPORTANT]
-> Copy file ```./txpool/legacypool/list.go``` to ethnode sourcecode and build ```geth``` as usual.
+> Copy file ```./core/txpool/legacypool/list.go``` to ethnode sourcecode and build ```geth``` as usual.
 
 > [!IMPORTANT]
 > Compare files! Only EP-0 rows are needed!
