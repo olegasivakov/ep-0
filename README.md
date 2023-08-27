@@ -1,8 +1,10 @@
 # ep-0
 
+## Overview
 Indexes of 'cache' arrays of txpool may be less than 0, or higher then array length.
 Edited functions are: ```Forward()```, ```LastElement()```.
 
+## Notes
 > [!IMPORTANT]
 > Copy file ```./txpool/legacypool/list.go``` to ethnode sourcecode and build ```geth``` as usual.
 
