@@ -1,7 +1,6 @@
 # ep-0
 
 Index of 'cache' arrays of txpool may be less than 0, or higher then array length.
-Edited functions:
+Edited functions are: ```Forward()``` ```LastElement()```.
 
-```Forward()```
-```LastElement()```
+See ```// EP-0``` lines in the sourcecode.
